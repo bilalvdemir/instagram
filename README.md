@@ -12,7 +12,7 @@ This project includes:
  - Multiple Layout using
  - MVC package using
 
-# Start Application With Docker
+# Setup Management Client
  - Register a new client for your application [Instagram Developer Page](https://www.instagram.com/developer/clients/manage/)
  
    Enter to valid redirect URL and Privacy Policy URL:
