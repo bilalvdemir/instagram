@@ -11,6 +11,8 @@ This project includes:
  - Gridview and Adapter Using
  - Multiple Layout using
  - MVC package using
+ - Retrofit2 example
+ - Async rest request example
 
 # Setup Management Client
  - Register a new client for your application [Instagram Developer Page](https://www.instagram.com/developer/clients/manage/)
