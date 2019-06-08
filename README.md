@@ -25,9 +25,9 @@ This project includes:
    
  # MyInstagram Preview
  Home page:
- <img height="500" width="300" src="https://github.com/bilalvdemir/images/blob/master/instagram_homepage.jpeg" />
+ <img height="500" width="275" src="https://github.com/bilalvdemir/images/blob/master/instagram_homepage.jpeg" />
  View İmage:
- <img height="500" width="300" src="https://github.com/bilalvdemir/images/blob/master/instagram_viewimage.jpeg" />
+ <img height="500" width="275" src="https://github.com/bilalvdemir/images/blob/master/instagram_viewimage.jpeg" />
 
 ## Contributing
 
