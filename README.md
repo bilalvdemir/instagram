@@ -24,7 +24,7 @@ This project includes:
    And uncheck "Disable implicit OAuth:" checkbox
    
  # MyInstagram Preview
- Home page: &#09;&#09;&#09;View İmage:
+ Home page: &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; View İmage:<br>
  <img height="500" width="275" src="https://github.com/bilalvdemir/images/blob/master/instagram_homepage.jpeg" />
  <img height="500" width="275" src="https://github.com/bilalvdemir/images/blob/master/instagram_viewimage.jpeg" />
 
